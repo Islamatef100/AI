@@ -1,1 +1,3 @@
 
+second mpdel (model2) --> to increase accurecy i used CNN and acuurecy become ==>  loss: 3.9024e-04 - accuracy: 0.9998 - val_loss: 0.1717 - val_accuracy: 0.9668
+in first model accurecy ==>  loss: 0.1054 - accuracy: 0.9811 - val_loss: 3.1419 - val_accuracy: 0.6995
